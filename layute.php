@@ -11,7 +11,7 @@
 
 <body>
     <div class="container p-5 my-5 bg-dark text-white">
-        <img src="/model/baixados.png" class="img-fluid" alt="...">
+        <img src="/imag/baixados.png" class="img-fluid" alt="...">
     </div>
     <!doctype html>
     <html lang="en" data-bs-theme="auto">
